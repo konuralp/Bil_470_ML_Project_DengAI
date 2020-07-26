@@ -8,4 +8,4 @@ positively correlated with the climate.Given enough historical data, we can try 
 Fever spread using the correlation between the environmental variables and the cases per week. This
 document explains the many approaches we tried trying to solve this problem.
 
-(https://cdn.discordapp.com/attachments/727530914166603779/736965373844520980/Submission.PNG)
+![Submission](https://cdn.discordapp.com/attachments/727530914166603779/736965373844520980/Submission.PNG)
